@@ -1,3 +1,4 @@
+#This is a comment change made by Vaibhav Dubey
 # importing whole module
 from tkinter import *
 from tkinter.ttk import *
@@ -20,8 +21,8 @@ def time():
 # Styling the label widget so that clock
 # will look more attractive
 lbl = Label(root, font = ('arial', 90, 'bold'),
-			background = 'Purple', # Change made by Vaibhav Dubey
-			foreground = 'black')
+			background = 'Purple', # Changed by Vaibhav Dubey
+			foreground = 'blue')
 
 # Placing clock at the centre
 # of the tkinter window
