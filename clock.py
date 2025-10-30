@@ -20,7 +20,7 @@ def time():
 # Styling the label widget so that clock
 # will look more attractive
 lbl = Label(root, font = ('arial', 90, 'bold'),
-			background = 'white',
+			background = 'Purple', # Change made by Vaibhav Dubey
 			foreground = 'black')
 
 # Placing clock at the centre
